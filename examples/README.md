@@ -1,6 +1,6 @@
 <a href="https://explosion.ai"><img src="https://explosion.ai/assets/img/logo.svg" width="125" height="125" align="right" /></a>
 
-# spaCy examples
+# spaCy examples :)
 
 For spaCy v3 we've converted many of the [v2 example
 scripts](https://github.com/explosion/spaCy/tree/v2.3.x/examples/) into
